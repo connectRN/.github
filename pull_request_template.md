@@ -1,5 +1,6 @@
 If Applicable:
-Promotion of LINK_TO_LOWER_ENVIRONMENT_PRS to UAT
+Promotion to UAT:
+- LINK_TO_LOWER_ENVIRONMENT_PRS
 
 ----
 
@@ -8,7 +9,7 @@ Promotion of LINK_TO_LOWER_ENVIRONMENT_PRS to UAT
 -- Reminders (Remove this from template before submitting) --
 
 Did you remember to:
-- Set this PR's target branch!  It should probably be `puat` or `uat`, not `master`!
+- **Set this PR's target branch!  It should probably be `puat` or `uat`, not `master`!**
 - Rebase your issue branch onto the target branch. If the commit list below includes anything other than your commits, you should rebase.
 
 Consider the following about your changes:
