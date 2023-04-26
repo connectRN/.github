@@ -1,20 +1,18 @@
-If Applicable:
-Promotion to UAT:
-- LINK_TO_LOWER_ENVIRONMENT_PRS
+# Description
 
-----
+Please include a summary of the changes and the related issue.
 
-< list your changes here >
- 
--- Reminders (Remove this from template before submitting) --
+Fixes # (issue)
 
-Did you remember to:
-- **Set this PR's target branch!  It should probably be `puat` or `uat`, not `master`!**
-- Rebase your issue branch onto the target branch. If the commit list below includes anything other than your commits, you should rebase.
+## Type of change
 
-Consider the following about your changes:
-- Do your commit messages reference the ticket ID?
-- Security! Are you relying on client side checks in server side code? Are you verifying user inputs?
-- Formatting! Have you run prettier/goimports?
-- Best Practices!
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] This change requires a documentation update
 
+# Checklist:
+
+- [ ] My changes generate no new linting errors (prettier/goimports)
+- [ ] My changes generate no new snyk issues
+- [ ] I have added tests that prove my fix is effective or that my feature works
+- [ ] New and existing unit tests pass locally with my changes
