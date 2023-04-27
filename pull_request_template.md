@@ -2,7 +2,7 @@
 
 Please include a summary of the changes and the related issue.
 
-Fixes # (issue)
+Fixes [<JIRA>](https://connectrn.atlassian.net/browse/<JIRA>#)
 
 ## Type of change
 
@@ -11,8 +11,9 @@ Fixes # (issue)
 - [ ] This change requires a documentation update
 
 # Checklist:
-
+- [ ] My commit messages reference a JIRA ticket ID
 - [ ] My changes generate no new linting errors (prettier/goimports)
 - [ ] My changes generate no new snyk issues
+- [ ] Input validation is done at the server side, regardless if the client is doing validation
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] New and existing unit tests pass locally with my changes
