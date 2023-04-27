@@ -2,8 +2,6 @@
 
 Please include a summary of the changes and the related issue.
 
-Fixes [<JIRA>](https://connectrn.atlassian.net/browse/<JIRA>#)
-
 ## Type of change
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
